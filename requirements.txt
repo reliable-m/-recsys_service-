@@ -1,0 +1,7 @@
+Flask==1.1.2
+gunicorn==20.0.4
+requests==2.23.0
+celery-progress==0.0.10
+flask_restplus==0.13.0
+Flask-Cors==3.0.8
+python-docx==0.8.11
