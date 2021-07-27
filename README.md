@@ -1,2 +1,2 @@
-# -recsys_service-
+# Recommentation System (recsys)
 Recommendation system for Academic use
